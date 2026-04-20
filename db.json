@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Signal todo list",
+      "description": "It's a simple Todo List demo application built with React and Vite, experimenting with signals for state management (likely using @preact/signals-react).",
+      "readTime": "5 min read",
+      "date": "Nov 8, 2023, 9:15 PM GMT+3",
+      "image": "",
+      "tags": ["html", "css", "js", "scss", "react", "signal"],
+      "url": "https://xbssiarhei.github.io/todolist-signal/",
+      "source": "https://github.com/xbssiarhei/todos-signal",
+      "web": true
+    },
+    {
+      "title": "Roller component",
+      "description": "Roller component is a UI component that creates a scrolling animation or an accumulating count effect. Number Roller / Count Up: Animates numbers to roll like a physical slot machine wheel, often used for animated counters (e.g., 0 → 1000).",
+      "readTime": "8 min read",
+      "date": "Mar 19, 2025, 2:46 AM GMT+3",
+      "image": "https://media.istockphoto.com/id/1097318634/vector/error-404-page-not-found-website-404-web-failure-oops-trouble-internet-warning-design.jpg?s=1024x1024&w=is&k=20&c=UKpOtrhAOlTwMA_9gyBcoYnO_YfCtTol-P3J9X4vsBs=",
+      "url": "https://xbssiarhei.github.io/roller",
+      "tags": ["html", "css", "js", "react"]
+    },
+    {
+      "title": "10 Useful Shadcn UI Components You Should Know",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa consequatur minus dicta accusantium quos, ratione suscipit id adipisci voluptatibus. Nulla sint repudiandae fugiat tenetur dolores.",
+      "readTime": "6 min read",
+      "date": "Nov 15, 2024",
+      "image": "https://cdn.pixabay.com/photo/2021/08/13/12/51/sea-6543041_1280.jpg"
+    },
+    {
+      "title": "JSON-Driven Web App Builder",
+      "description": "A React library that renders applications from JSON configuration with extensible component mapping, plugin system, and conditional modifiers.",
+      "readTime": "6 min read",
+      "date": "---",
+      "url": "https://xbssiarhei.github.io/json-ui-engine/",
+      "web": true,
+      "tags": ["html", "css", "react", "ts", "valtio"]
+    }
+  ],
+  "tags": [
+    { "id": "js", "name": "JavaScript" },
+    { "id": "ts", "name": "TypeScript" },
+    { "id": "html", "name": "HTML" },
+    { "id": "css", "name": "Css" },
+    { "id": "scss", "name": "Scss" },
+    { "id": "react", "name": "React" },
+    { "id": "signal", "name": "Signal" },
+    { "id": "valtio", "name": "Valtio" }
+  ]
+}
